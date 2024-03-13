@@ -1,0 +1,170 @@
+.home{
+    background-image: url(home6.png);
+    background-repeat: no-repeat;
+    background-size: 1025px;
+   
+    
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  background-size: 20px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+#admin
+{
+     background-image: url(admin.jpg);
+     background-repeat: no-repeat;
+     background-size: 1000px;
+}
+#admin1{
+    background-color: #5f9ea0;
+        width: 350px;
+        height: 200px;
+}
+#dash{
+    background-image: url(dash1.jpg);
+     background-repeat: no-repeat;
+     background-size: 1000px;
+}
+#dash2
+{
+    background-image: url(dash3.jpg);
+     background-repeat: no-repeat;
+     background-size: 1492px;
+    
+}
+#dash4
+{
+    background-color: #fffaf0;
+    width: 450px;
+    
+}
+#pass_a{
+    background-image: url(home8.png);
+    background-repeat: no-repeat;
+    background-size: 1352px;
+}
+
+
+
+#user
+{
+     background-image: url(home10.png);
+     background-repeat: no-repeat;
+     background-size: 1000px;
+}
+#user1{
+    background-color: #5f9ea0;
+        width: 350px;
+        height: 200px;
+}
+#user_detail{
+    background-image: url(home1.jpeg);
+     background-repeat: no-repeat;
+     background-size: 1583px;
+}
+/*#user_detail1{
+    background: wheat;
+}*/
+#user_detail2{
+    background: aqua;
+}
+#manage_user{
+    background-image: url(home12.jpeg);
+     background-repeat: no-repeat;
+     background-size: 1000px;
+}
+#user_reg{
+     background-image: url(home13.png);
+     background-repeat: no-repeat;
+     background-size: 1731px;
+}
+#user_reg1{
+    background-color: #36f4b3;
+    width: 350px;
+    height: 599px;
+}
+#user_reg2{
+    background: wheat;
+}
+#edit_admin{
+     background-image: url(home6.png);
+     background-repeat: no-repeat;
+     background-size: 1000px;
+    
+}
+#edit_admin1{
+    background-color: #c0f436;
+    width: 271px;
+    height: 377px;
+}
+#dash_us{
+     background-image: url(home9.png);
+     background-repeat: no-repeat;
+     background-size: 1000px;
+}
+#user_profile{
+    background-image: url(dash3.jpg);
+     background-repeat: no-repeat;
+     background-size:  1771px;   
+}
+#user_profile1{
+    background-color: #ddd5c5;
+    width: 433px;
+}
+#user_profile2{
+    background: wheat;
+}
+#dri_sch{
+     background-image: url(home7.jpeg);
+     background-repeat: no-repeat;
+     background-size:  1200px;
+}
+#us_pass{
+    background-image: url(home2.jpg);
+     background-repeat: no-repeat;
+     background-size:  1000px;
+}
+#payment{
+    background-image: url(home12.jpeg);
+     background-repeat: no-repeat;
+     background-size:  1143px;
+}
+#receipt{
+    background-image: url(dash3.jpg);
+     background-repeat: no-repeat;
+     background-size: 1492px;
+}
+#receipt1{
+background-color: #fffaf0;
+    width: 450px;
+}
+#contact{
+     background-image: url(home6.png);
+     background-repeat: no-repeat;
+     background-size: 1170px;
+}
+#contact1{
+    background-color: #fffaf0;
+    width: 450px;
+}
